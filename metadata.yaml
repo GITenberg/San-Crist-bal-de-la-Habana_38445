@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2218
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Hergesheimer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38445#San-Crist-bal-de-la-Habana
 gutenberg_issued: '2011-12-30'
 gutenberg_type: Text
 identifiers:
